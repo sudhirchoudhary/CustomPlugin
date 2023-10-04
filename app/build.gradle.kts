@@ -70,7 +70,6 @@ dependencies {
     debugImplementation(libs.ui.test.manifest)
 
     //noinspection UseTomlInstead
-    implementation("com.github.sudhirchoudhary:Milkify:1.0.0")
 
     implementation(project(":mylibrary"))
 }
